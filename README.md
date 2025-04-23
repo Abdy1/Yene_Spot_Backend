@@ -14,7 +14,7 @@ Built using **Spring Boot**, it exposes REST APIs for the mobile and (future) we
 
 - **Java 17**
 - **Spring Boot 3.x**
-- **Gradle**
+- **Maven**
 - **PostgreSQL**
 - **JWT Authentication**
 - **RESTful API**
